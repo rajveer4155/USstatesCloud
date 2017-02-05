@@ -1,5 +1,5 @@
 # USstatesCloud
-50 Wiki Web pages ' analysis dedicated to 50 US States using Hadoop Map-Reduce
+50 Wiki Web pages ' analysis dedicated to 50 US States using Hadoop Map-Reduce. It was successfully tested on 4 Node Hadoop Cluster on AWS.
 
 ### It performs following analysis:
 
